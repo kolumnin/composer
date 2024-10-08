@@ -91,4 +91,5 @@ Acknowledgments
 
 - This project's Solver started out as a PHP port of openSUSE's
   [Libzypp satsolver](https://en.opensuse.org/openSUSE:Libzypp_satsolver).
-[test]()
+[test](https://github.com/kolumnin/composer/blob/main/test.php)
+
