@@ -93,5 +93,6 @@ Acknowledgments
   [Libzypp satsolver](https://en.opensuse.org/openSUSE:Libzypp_satsolver).
   
 - - - - - - - - - - - - - - - - - - - - - - 
+kolumnin's
 [test](https://github.com/kolumnin/composer/blob/main/test.php)
 
